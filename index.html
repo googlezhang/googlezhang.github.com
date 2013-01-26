@@ -11,11 +11,9 @@
 <link rel="alternate" type="application/rss+xml" title="晴天弄云 &raquo; Feed" href="http://www.zhanghl.com/feed/" />
 <link rel="alternate" type="application/rss+xml" title="晴天弄云 &raquo; 评论 Feed" href="http://www.zhanghl.com/comments/feed/" />
 <link rel='stylesheet' id='livingjournal_style-css'  href='http://www.zhanghl.com/wordpress/wp-content/themes/living-journal/style.css?ver=3.5.1' type='text/css' media='all' />
-<link rel='stylesheet' id='codebox-css'  href='http://www.zhanghl.com/wp-content/plugins/wp-codebox/css/codebox.css?ver=0.1' type='text/css' media='screen' />
 <script type='text/javascript' src='http://www.zhanghl.com/wordpress/wp-content/themes/living-journal/library/js/modernizr-2.6.1.min.js?ver=2.6.1'></script>
 <script type='text/javascript' src='http://www.zhanghl.com/wp-includes/js/jquery/jquery.js?ver=1.8.3'></script>
 <script type='text/javascript' src='http://www.zhanghl.com/wordpress/wp-content/themes/living-journal/library/js/scripts.js?ver=1.0.0'></script>
-<script type='text/javascript' src='http://www.zhanghl.com/wp-content/plugins/wp-codebox/js/codebox.js?ver=0.1'></script>
 <meta name="generator" content="WordPress 3.5.1 - really-static 0.5" />
 	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
 <style type="text/css" id="custom-background-css">
@@ -76,26 +74,23 @@ body.custom-background { background-image: url('http://www.zhanghl.com/wordpress
 <p><strong>二.运用反射手段</strong></p>
 <p>(1)调用java.lang.Class.newInstance()<br />
 <code><br />
-Class.forName(classname).newInstance();</p>
-<p>Wife wife = (Wife) Class.forName("com.java.clone.Wife").newInstance();<br />
-</code><br />
-(2)调用java.lang.reflect.Constructor类的newInstance()<br />
+Class.forName(classname).newInstance();</code></p>
+<p>Wife wife = (Wife) Class.forName(&#8220;com.java.clone.Wife&#8221;).newInstance();</p>
+<p>(2)调用java.lang.reflect.Constructor类的newInstance()<br />
 <code><br />
-Constructor&lt;Wife&gt; constructor = Wife.class.getDeclaredConstructor(int.class,String.class);</p>
-<p>Wife wife = (Wife) constructor.newInstance(1,"nihao");<br />
-</code><br />
-<strong>三.调用对象的clone()方法</strong></p>
+Constructor&lt;Wife&gt; constructor = Wife.class.getDeclaredConstructor(int.class,String.class);</code></p>
+<p>Wife wife = (Wife) constructor.newInstance(1,&#8221;nihao&#8221;);</p>
+<p><strong>三.调用对象的clone()方法</strong></p>
 <p>详情参考：<a href="http://ncs123.iteye.com/blog/1775631" target="_blank">http://ncs123.iteye.com/blog/1775631</a><br />
 <code><br />
-Wife wife = new Wife(1,"wang");</p>
+Wife wife = new Wife(1,"wang");</code></p>
 <p>Wife wife2 = null;</p>
-<p>wife2 = (Wife) wife.clone();//运用clone()方法产生新对象<br />
-</code><br />
-<strong>四.运用反序列化手段</strong><br />
+<p>wife2 = (Wife) wife.clone();//运用clone()方法产生新对象</p>
+<p><strong>四.运用反序列化手段</strong><br />
 被序列化的对象必须implements Serializable<br />
 <code><br />
-public class BeanUtil {</p>
-<p>@SuppressWarnings("unchecked")<br />
+public class BeanUtil {</code></p>
+<p>@SuppressWarnings(&#8220;unchecked&#8221;)<br />
 public static &lt;T&gt; T cloneTo(T src) throws RuntimeException {<br />
 ByteArrayOutputStream memoryBuffer = new ByteArrayOutputStream();<br />
 ObjectOutputStream out = null;<br />
@@ -130,13 +125,12 @@ throw new RuntimeException(e);<br />
 }</p>
 <p>public static void main(String[] args){<br />
 Husband husband = new Husband(1);<br />
-Wife wife = new Wife(1,"jin");<br />
+Wife wife = new Wife(1,&#8221;jin&#8221;);<br />
 husband.setWife(wife);<br />
 Husband husband2 = cloneTo(husband);//运用反序列生成了一个对象<br />
 }<br />
 }<br />
 </code></p>
-<p><code>jjjj</code></p>
 			</div><!-- .entry-content -->
 	
 	<footer class="entry-meta">
