@@ -1,0 +1,15 @@
+Bloggable
+
+/*************************************************
+Version 1.4.1
+*************************************************/
+- fixed the seo-seeded footer link anchor text
+
+/*************************************************
+Version 1.4
+*************************************************/
+- removed css link tag in header.php and enqueued stylesheet in functions.php
+- added modernizr script
+- updated title filter function
+- fixed some minor css issues
+- updated the footer credit

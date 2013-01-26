@@ -1,0 +1,637 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: mt-dark\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-01-10 15:08+0100\n"
+"PO-Revision-Date: 2013-01-10 15:09+0100\n"
+"Last-Translator: Tomasz Mazur <tommek77@gmail.com>\n"
+"Language-Team:  <tommek77@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_x;_n\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: F:\\WWW\\testy\\wp-content\\themes\\mt-dark\n"
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/404.php:5
+msgid "Error 404 - Not Found"
+msgstr "Errore 404 - Pagina non trovata."
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/404.php:7
+msgid ""
+"Apologies, but the page you requested could not be found. Perhaps searching "
+"will help."
+msgstr ""
+"Spiacente, la pagina che hai richiesto non Ã¨ stata trovata. Prova ad "
+"effettuare una ricerca."
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/archive.php:6
+#, php-format
+msgid "Daily Archives: <span>%s</span>"
+msgstr "Archivi per giorno: <span>%s</span>"
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/archive.php:8
+#, php-format
+msgid "Monthly Archives: <span>%s</span>"
+msgstr "Archivi per mese: <span>%s</span>"
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/archive.php:10
+#, php-format
+msgid "Yearly Archives: <span>%s</span>"
+msgstr "Archivi per anno: <span>%s</span>"
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/archive.php:12
+#, php-format
+msgid "Category Archives: <span>%s</span>"
+msgstr "Archivi per categoria: <span>%s</span>  "
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/archive.php:14
+#, php-format
+msgid "Tag Archives: <span>%s</span>"
+msgstr "Archivi per tag: <span>%s</span>"
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/archive.php:16
+msgid "Gallery"
+msgstr "Gallery"
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/archive.php:18
+#: F:\WWW\testy\wp-content\themes\mt-dark/functions.php:93
+msgid "Image"
+msgstr "Image"
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/archive.php:20
+msgid "Link"
+msgstr "Links "
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/archive.php:22
+msgid "Aside"
+msgstr "Aside"
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/archive.php:24
+msgid "Blog Archives"
+msgstr "Archivi del blog"
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/attachment.php:38
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Prosegui la lettura <span class=\"meta-nav\">&rarr;</span>"
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/attachment.php:45
+#, php-format
+msgid "Return to %s"
+msgstr "Ritorna a %s"
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/attachment.php:45
+#, php-format
+msgid "<span class=\"meta-nav\">&larr;</span> %s"
+msgstr "<span class=\"meta-nav\">&larr;</span> %s"
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/attachment.php:50
+msgid "<li>Title : "
+msgstr "<li>Titolo : "
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/attachment.php:52
+#, php-format
+msgid "<li><span class=\"%1$s\">Published</span> %2$s"
+msgstr "<li><span class=\"%1$s\">Pubblicato</span> %2$s"
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/attachment.php:55
+#, php-format
+msgid "Full size is:<br /> %s pixels"
+msgstr "Dimensione completa:<br /> %s pixels"
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/attachment.php:55
+msgid "Link to full-size image"
+msgstr "Link all'immagine completa"
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/attachment.php:58
+msgid "Edit"
+msgstr "Modifica"
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/attachment.php:61
+msgid "<li>Caption: "
+msgstr "<li>Descrizione: "
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/attachment.php:63
+msgid "<li>Camera: "
+msgstr "<li>Fotocamera: "
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/attachment.php:65
+msgid "<li>Aperture: f/"
+msgstr "<li>Apertura: f/"
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/attachment.php:67
+msgid "<li>Copyright: "
+msgstr "<li>Copyright: "
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/attachment.php:69
+msgid "<li>Credit: "
+msgstr "<li>Ringraziamenti: "
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/attachment.php:71
+msgid "<li>Focal Length: "
+msgstr "<li>Lunghezza focale: "
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/attachment.php:73
+msgid "<li>ISO: "
+msgstr "<li>ISO: "
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/attachment.php:75
+msgid "<li>Shutter Speed: "
+msgstr "<li>VelocitÃ  otturatore: "
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/author.php:10
+#, php-format
+msgid "Author Archives: %s"
+msgstr "Archivi per autore: %s"
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/author.php:18
+#, php-format
+msgid "About %s"
+msgstr "Informazioni su %s"
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/comments.php:5
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr "Questo articolo Ã¨ protetto. Inserisci la password."
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/comments.php:15
+#, php-format
+msgid "%1$s Responses to %2$s"
+msgstr "%1$s a %2$s "
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/comments.php:20
+#: F:\WWW\testy\wp-content\themes\mt-dark/comments.php:30
+msgid "Older Comments"
+msgstr "% Commenti "
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/comments.php:20
+#: F:\WWW\testy\wp-content\themes\mt-dark/comments.php:30
+msgid "Newer Comments"
+msgstr "% Commenti "
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/comments.php:36
+msgid "Comments are closed."
+msgstr "I commenti sono chiusi."
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/content-gallery.php:15
+#: F:\WWW\testy\wp-content\themes\mt-dark/content.php:28
+#: F:\WWW\testy\wp-content\themes\mt-dark/dark-template-blog.php:19
+#: F:\WWW\testy\wp-content\themes\mt-dark/dark-template-center-page.php:17
+#: F:\WWW\testy\wp-content\themes\mt-dark/dark-template-contact-page.php:17
+#: F:\WWW\testy\wp-content\themes\mt-dark/dark-template-front-page-full-width.php:11
+#: F:\WWW\testy\wp-content\themes\mt-dark/dark-template-front-page-sidebar.php:10
+#: F:\WWW\testy\wp-content\themes\mt-dark/dark-template-one-page.php:17
+#: F:\WWW\testy\wp-content\themes\mt-dark/functions.php:305
+#: F:\WWW\testy\wp-content\themes\mt-dark/loop-aside.php:3
+#: F:\WWW\testy\wp-content\themes\mt-dark/loop.php:13
+#: F:\WWW\testy\wp-content\themes\mt-dark/page.php:14
+msgid "(more...)"
+msgstr "(altro...)"
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/content-gallery.php:18
+#: F:\WWW\testy\wp-content\themes\mt-dark/content.php:31
+#: F:\WWW\testy\wp-content\themes\mt-dark/dark-template-blog.php:22
+#: F:\WWW\testy\wp-content\themes\mt-dark/dark-template-center-page.php:19
+#: F:\WWW\testy\wp-content\themes\mt-dark/dark-template-front-page-sidebar.php:12
+#: F:\WWW\testy\wp-content\themes\mt-dark/dark-template-one-page.php:20
+#: F:\WWW\testy\wp-content\themes\mt-dark/loop.php:17
+#: F:\WWW\testy\wp-content\themes\mt-dark/page.php:17
+msgid "Pages:"
+msgstr "Pagine:"
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/content-gallery.php:23
+#: F:\WWW\testy\wp-content\themes\mt-dark/content.php:36
+#: F:\WWW\testy\wp-content\themes\mt-dark/dark-template-blog.php:27
+#: F:\WWW\testy\wp-content\themes\mt-dark/loop-aside.php:13
+#: F:\WWW\testy\wp-content\themes\mt-dark/loop-gallery.php:31
+#: F:\WWW\testy\wp-content\themes\mt-dark/loop-image.php:31
+#: F:\WWW\testy\wp-content\themes\mt-dark/loop-link.php:22
+#: F:\WWW\testy\wp-content\themes\mt-dark/loop.php:22
+msgid "No comments yet"
+msgstr "No comments yet"
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/content-gallery.php:23
+#: F:\WWW\testy\wp-content\themes\mt-dark/content.php:36
+#: F:\WWW\testy\wp-content\themes\mt-dark/dark-template-blog.php:27
+#: F:\WWW\testy\wp-content\themes\mt-dark/loop-aside.php:13
+#: F:\WWW\testy\wp-content\themes\mt-dark/loop-gallery.php:31
+#: F:\WWW\testy\wp-content\themes\mt-dark/loop-image.php:31
+#: F:\WWW\testy\wp-content\themes\mt-dark/loop-link.php:22
+#: F:\WWW\testy\wp-content\themes\mt-dark/loop.php:22
+msgid "1 comment"
+msgstr "1 Commento "
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/content-gallery.php:23
+#: F:\WWW\testy\wp-content\themes\mt-dark/content.php:36
+#: F:\WWW\testy\wp-content\themes\mt-dark/dark-template-blog.php:27
+#: F:\WWW\testy\wp-content\themes\mt-dark/loop-aside.php:13
+#: F:\WWW\testy\wp-content\themes\mt-dark/loop-gallery.php:31
+#: F:\WWW\testy\wp-content\themes\mt-dark/loop-image.php:31
+#: F:\WWW\testy\wp-content\themes\mt-dark/loop-link.php:22
+#: F:\WWW\testy\wp-content\themes\mt-dark/loop.php:22
+#, php-format
+msgid "% comments"
+msgstr "% Commenti "
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/content-gallery.php:23
+#: F:\WWW\testy\wp-content\themes\mt-dark/content.php:36
+#: F:\WWW\testy\wp-content\themes\mt-dark/dark-template-blog.php:27
+#: F:\WWW\testy\wp-content\themes\mt-dark/loop-aside.php:13
+#: F:\WWW\testy\wp-content\themes\mt-dark/loop-gallery.php:31
+#: F:\WWW\testy\wp-content\themes\mt-dark/loop-image.php:31
+#: F:\WWW\testy\wp-content\themes\mt-dark/loop-link.php:22
+#: F:\WWW\testy\wp-content\themes\mt-dark/loop.php:22
+msgid "Comments are off for this post"
+msgstr "Comments are off for this post"
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/dark-template-archives.php:18
+#: F:\WWW\testy\wp-content\themes\mt-dark/dark-template-one-page.php:25
+#: F:\WWW\testy\wp-content\themes\mt-dark/search.php:8
+msgid "Sorry, no posts matched your criteria."
+msgstr "Spiacente, nessun articolo corrisponde alla tua ricerca."
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/dark-template-blog.php:15
+#: F:\WWW\testy\wp-content\themes\mt-dark/dark-template-front-page-full-width.php:28
+#: F:\WWW\testy\wp-content\themes\mt-dark/dark-template-front-page-sidebar.php:55
+#: F:\WWW\testy\wp-content\themes\mt-dark/dark-template-front-page-slideshow.php:54
+#: F:\WWW\testy\wp-content\themes\mt-dark/dark-template-front-page-slideshow.php:59
+#: F:\WWW\testy\wp-content\themes\mt-dark/dark-template-front-page-slideshow.php:87
+#: F:\WWW\testy\wp-content\themes\mt-dark/loop-gallery.php:5
+#: F:\WWW\testy\wp-content\themes\mt-dark/loop-gallery.php:15
+#: F:\WWW\testy\wp-content\themes\mt-dark/loop.php:2
+#: F:\WWW\testy\wp-content\themes\mt-dark/search.php:15
+#, php-format
+msgid "Permanent Link to %s"
+msgstr "Permalink a %s"
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/dark-template-front-page-full-width.php:19
+#: F:\WWW\testy\wp-content\themes\mt-dark/dark-template-front-page-sidebar.php:47
+#: F:\WWW\testy\wp-content\themes\mt-dark/dark-template-front-page-slideshow.php:77
+msgid "Blog"
+msgstr "Blog"
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/dark-template-front-page-sidebar.php:18
+#: F:\WWW\testy\wp-content\themes\mt-dark/dark-template-sitemap.php:14
+#: F:\WWW\testy\wp-content\themes\mt-dark/sidebar.php:13
+msgid "Categories"
+msgstr "Categorie"
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/dark-template-front-page-sidebar.php:19
+#: F:\WWW\testy\wp-content\themes\mt-dark/dark-template-sitemap.php:22
+#: F:\WWW\testy\wp-content\themes\mt-dark/sidebar.php:16
+msgid "Archives"
+msgstr "Archivi"
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/dark-template-front-page-sidebar.php:20
+#: F:\WWW\testy\wp-content\themes\mt-dark/dark-template-sitemap.php:18
+#: F:\WWW\testy\wp-content\themes\mt-dark/sidebar.php:19
+msgid "Tags"
+msgstr "Tag"
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/dark-template-sitemap.php:9
+msgid "Pages"
+msgstr "Pagine: "
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/footer.php:32
+msgid "Syndicate this site using RSS"
+msgstr "Iscriviti a questo sito tramite RSS"
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/footer.php:32
+msgid "<abbr title=\"Really Simple Syndication\">RSS</abbr>"
+msgstr "<abbr title=\"Really Simple Syndication\">RSS</abbr>"
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/footer.php:35
+msgid "The latest comments to all posts in RSS"
+msgstr "Tutti i commenti recenti agli articoli in RSS"
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/footer.php:35
+msgid "Comments <abbr title=\"Really Simple Syndication\">RSS</abbr>"
+msgstr "Commenti <abbr title=\"Really Simple Syndication\">RSS</abbr>"
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/footer.php:38
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/footer.php:38
+msgid ""
+"Powered by WordPress, state-of-the-art semantic personal publishing platform."
+msgstr ""
+"Powered by WordPress, state-of-the-art semantic personal publishing platform."
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/footer.php:41
+msgid "Theme design by"
+msgstr "Tema sviluppato da"
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/footer.php:42
+msgid "http://blankcanvas.eu"
+msgstr "http://blankcanvas.eu"
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/functions.php:23
+msgid "Sidebar"
+msgstr "Barra laterale "
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/functions.php:25
+msgid "The primary widget area"
+msgstr "Area widget primaria"
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/functions.php:32
+msgid "Sidebar top"
+msgstr "Sidebar top"
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/functions.php:34
+msgid "The secondary widget area"
+msgstr "The secondary widget area"
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/functions.php:41
+msgid "First Footer Widget Area"
+msgstr "Area widget footer sinistro"
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/functions.php:43
+msgid "The secondary footer widget area"
+msgstr "Area widget footer centrale"
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/functions.php:51
+msgid "Second Footer Widget Area"
+msgstr "Area widget footer destro "
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/functions.php:53
+msgid "The second footer widget area"
+msgstr "Area widget footer centrale "
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/functions.php:161
+msgid "Head"
+msgstr "Head"
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/functions.php:166
+msgid "Head 2"
+msgstr "Head 2"
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/functions.php:171
+msgid "Rock"
+msgstr "Rock"
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/functions.php:311
+#, php-format
+msgid ""
+"<li>%4$s, Author: <span class=\"author vcard\"><a class=\"url fn n\" href="
+"\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s </a></span> %8$s</li>"
+msgstr ""
+"<li>%4$s, Author: <span class=\"author vcard\"><a class=\"url fn n\" href="
+"\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s </a></span> %8$s</li>"
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/functions.php:313
+#, php-format
+msgid ""
+"<li><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"> <span datetime=\"%3$s"
+"\" pubdate> %4$s, </span></a> Author: <span class=\"author vcard\"><a class="
+"\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s </a></span> "
+"%8$s</li>"
+msgstr ""
+"<li><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"> <span datetime=\"%3$s"
+"\" pubdate> %4$s, </span></a> Author: <span class=\"author vcard\"><a class="
+"\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s </a></span> "
+"%8$s</li>"
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/functions.php:315
+msgid "Edit This"
+msgstr "Modifica questo articolo"
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/functions.php:320
+#: F:\WWW\testy\wp-content\themes\mt-dark/functions.php:321
+msgid ", "
+msgstr ", "
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/functions.php:323
+#, php-format
+msgid "<li>Categories: %1$s Tags: %2$s </li>"
+msgstr "<li>Categories: %1$s Tags: %2$s </li>"
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/functions.php:325
+#, php-format
+msgid "<li>Categories: %1$s </li>"
+msgstr "<li>Categories: %1$s </li>"
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/functions.php:327
+#, php-format
+msgid "<li>Author: %3$s</li>"
+msgstr "<li>Autor: %3$s</li>"
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/functions.php:372
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">dice:</span>"
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/functions.php:375
+msgid "Your comment is awaiting moderation."
+msgstr "Il tuo commento Ã¨ in attesa di moderazione."
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/functions.php:382
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s a %2$s"
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/functions.php:383
+#: F:\WWW\testy\wp-content\themes\mt-dark/functions.php:399
+msgid "(Edit)"
+msgstr "(modifica)"
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/functions.php:399
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/functions.php:408
+msgid "Featured image"
+msgstr "Featured image"
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/loop-gallery.php:18
+#, php-format
+msgid "<p>This gallery contains <a %1$s>%2$s photo</a>.</p>"
+msgstr "<p>This gallery contains <a %1$s>%2$s photo</a>.</p>"
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/search.php:4
+#, php-format
+msgid "Search Results for: <span>%s</span>"
+msgstr "Risultati della ricerca per: <span>%s</span>"
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/inc/dark-theme-options.php:21
+#: F:\WWW\testy\wp-content\themes\mt-dark/inc/dark-theme-options.php:22
+msgid "Theme Options"
+msgstr "Opzioni del tema"
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/inc/dark-theme-options.php:39
+#, php-format
+msgid "%s Theme Options"
+msgstr "%s Theme Options"
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/inc/dark-theme-options.php:47
+msgid "About me"
+msgstr "Informazioni su %s "
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/inc/dark-theme-options.php:49
+msgid "Name"
+msgstr "Nome"
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/inc/dark-theme-options.php:55
+msgid "Photo"
+msgstr "Foto"
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/inc/dark-theme-options.php:58
+msgid "Link to your image(80x80px)"
+msgstr "Link alla tua immagine"
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/inc/dark-theme-options.php:62
+msgid "Description"
+msgstr "Descrizione"
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/inc/dark-theme-options.php:68
+msgid "Layout"
+msgstr "Layout"
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/inc/dark-theme-options.php:69
+msgid "Default Layout "
+msgstr "Default Layout "
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/inc/dark-theme-options.php:72
+msgid "Sidebar on the left side"
+msgstr "Sidebar on the left side"
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/inc/dark-widgets.php:47
+#: F:\WWW\testy\wp-content\themes\mt-dark/inc/dark-widgets.php:118
+msgid "Title:"
+msgstr "Titolo:"
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/inc/dark-widgets.php:51
+#, php-format
+msgid "\"Flickr\"- ID. <a href=\"%s\" target=\"_blank\">idgettr.com</a>"
+msgstr "\"Flickr\"- ID. <a href=\"%s\" target=\"_blank\">idgettr.com</a>"
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/inc/dark-widgets.php:51
+msgid "http://idgettr.com/"
+msgstr "http://idgettr.com/"
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/inc/dark-widgets.php:57
+msgid "Number of photo to display:"
+msgstr "Numero di foto da visualizzare:"
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/inc/dark-widgets.php:121
+msgid ""
+"Enter <strong>Facebook</strong>  account name, for example(http://www."
+"facebook.com/?ref=logo#!/<strong>mazurtomek</strong>)"
+msgstr ""
+"Inserisci il tuo nome utente <strong>LastFM</strong>, ad esempio (http://www."
+"lastfm.pl/user/<strong>tommek</strong>)  "
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/inc/dark-widgets.php:124
+msgid ""
+"Enter <strong>YouTube</strong>  account name, for example(youtube.com/user/"
+"<strong>tommek1977</strong>)"
+msgstr ""
+"Inserisci il tuo nome utente <strong>YouTube</strong>, ad esempio (http://"
+"www.youtube.com/user/<strong>tommek1977</strong>) "
+
+#: F:\WWW\testy\wp-content\themes\mt-dark/inc/dark-widgets.php:129
+msgid ""
+"Enter <strong>LastFM</strong>  account name, for example(http://www.lastfm."
+"pl/user/<strong>tommek</strong>)"
+msgstr ""
+"Inserisci il tuo nome utente <strong>LastFM</strong>, ad esempio (http://www."
+"lastfm.pl/user/<strong>tommek</strong>) "
+
+#~ msgid "User:"
+#~ msgstr "Utente:"
+
+#~ msgid "Number of Tweets to display:"
+#~ msgstr "Numero di tweet da visualizzare:"
+
+#~ msgid "Author"
+#~ msgstr "Autore"
+
+#~ msgid "Leave a comment"
+#~ msgstr "Lascia un commento"
+
+#~ msgid "1 Comment"
+#~ msgstr "1 Commento"
+
+#~ msgid "% Comments"
+#~ msgstr "% Commenti"
+
+#~ msgid "Not Found"
+#~ msgstr "Pagina non trovata."
+
+#~ msgid ""
+#~ "Apologies, but no results were found for the requested archive. Perhaps "
+#~ "searching will help find a related post."
+#~ msgstr ""
+#~ "Spiacente, la pagina che hai richiesto non Ã¨ stata trovata. Prova ad "
+#~ "effettuare una ricerca. "
+
+#~ msgid "<a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\">%3$s</a>"
+#~ msgstr "<a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\">%3$s</a>"
+
+#~ msgid "Search Results"
+#~ msgstr "Risultati della ricerca:"
+
+#~ msgid "Page %s |"
+#~ msgstr "Pagina %s |"
+
+#~ msgid "Category Archives"
+#~ msgstr "Archivi per categoria"
+
+#~ msgid "Tag Archives"
+#~ msgstr "Archivi per tag"
+
+#~ msgid "HTTP 404: Not Found"
+#~ msgstr "HTTP 404: Pagina non trovata."
+
+#~ msgid "Lightbox"
+#~ msgstr "Lightbox"
+
+#~ msgid ""
+#~ "Turn on the \"lightbox\" effect to your photos (Gallery, Image with the "
+#~ "signature)"
+#~ msgstr ""
+#~ "Turn on the \"lightbox\" effect to your photos (Gallery, Image with the "
+#~ "signature)"
+
+#~ msgid "http://www.tommek.eu/"
+#~ msgstr "http://tommek.eu "
+
+#~ msgid "Single page"
+#~ msgstr "Single page"
+
+#~ msgid "One column"
+#~ msgstr "One column"
+
+#~ msgid "The third footer widget area"
+#~ msgstr "Area widget footer destro"
+
+#~ msgid "\"Flickr\"- ID. <a href=\""
+#~ msgstr "\"Flickr\"- ID. <a href=\""
+
+#~ msgid "Images"
+#~ msgstr "Pagine: "
+
+#~ msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+#~ msgstr "<span class=\"meta-nav\">&larr;</span> Commenti precedenti"
+
+#~ msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+#~ msgstr "Commenti successivi <span class=\"meta-nav\">&rarr;</span>"
+
+#~ msgid "Enable lightbox"
+#~ msgstr "Enable lightbox"
+
+#~ msgid "&larr; Older posts"
+#~ msgstr "&larr; Articoli precedenti"
+
+#~ msgid "Newer posts &rarr;"
+#~ msgstr "Articoli successivi &rarr;"
+
+#~ msgid "Options saved"
+#~ msgstr "Opzioni salvate"
+
+#~ msgid "Save Options"
+#~ msgstr "Salva le opzioni"
+
+#~ msgid "Recent Posts"
+#~ msgstr "Articoli recenti"
